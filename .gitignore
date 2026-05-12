@@ -1,0 +1,5 @@
+.env
+venv/
+index_films/
+__pycache__/
+*.pyc
